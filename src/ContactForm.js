@@ -94,7 +94,7 @@ class ContactForm extends Component {
                 errorMessages: ''
             }); */
 
-            this.props.history.push('/view-all-contacts');
+            this.props.history.push('/view-all-contact');
         }
     }
 
